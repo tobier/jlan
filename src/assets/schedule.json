@@ -1,0 +1,30 @@
+{
+    "days": [
+      {
+        "date": "2024-11-15",
+        "events": [
+          { "title": "Setup & Arrival", "start": "17:00", "end": "18:00" },
+          { "title": "Game 1: Mario Kart", "start": "18:00", "end": "20:00" },
+          { "title": "Dinner Break", "start": "20:00", "end": "21:00" },
+          { "title": "Game 2: Smash Bros", "start": "21:00", "end": "23:00" }
+        ]
+      },
+      {
+        "date": "2024-11-16",
+        "events": [
+          { "title": "Game 3: Rocket League", "start": "10:00", "end": "12:00" },
+          { "title": "Lunch", "start": "12:00", "end": "13:00" },
+          { "title": "Game 4: FIFA", "start": "13:00", "end": "15:00" }
+        ]
+      },
+      {
+        "date": "2024-11-17",
+        "events": [
+          { "title": "Game 5: Halo", "start": "10:00", "end": "12:00" },
+          { "title": "Lunch", "start": "12:00", "end": "13:00" },
+          { "title": "Final Game: Fortnite", "start": "13:00", "end": "15:00" }
+        ]
+      }
+    ]
+  }
+  
